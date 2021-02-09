@@ -1,0 +1,24 @@
+{
+  "name": "sovietsrusso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikttu/sovietsrusso.git"
+  },
+  "keywords": [],
+  "author": "Viktor Nespolo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikttu/sovietsrusso/issues"
+  },
+  "homepage": "https://github.com/vikttu/sovietsrusso#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
